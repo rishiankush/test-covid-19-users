@@ -1,0 +1,146 @@
+[{
+    "userId" : 1,
+    "type": "C",
+    "datetime": 1585388631,
+    "location": [-96.408867, 32.754816]
+}, {
+    "userId" : 1,
+    "type": "T",
+    "datetime": 1585389231,
+    "location": [-96.410036, 32.754789]
+}, {
+    "userId" : 1,
+    "type": "T",
+    "datetime": 1585389831,
+    "location": [-96.410311, 32.754119]
+},{
+    "userId" : 1,
+    "type": "T",
+    "datetime": 1585390431,
+    "location": [-96.409854, 32.753933]
+}, {
+    "userId" : 1,
+    "type": "T",
+    "datetime": 1585391031,
+    "location": [-96.409594, 32.753541]
+}, {
+    "userId" : 2,
+    "type": "T",
+    "datetime": 1585388751,
+    "location": [-96.410809, 32.751359]
+}, { 
+    "userId" : 2,
+    "type": "T",
+    "datetime": 1585389351,
+    "location": [-96.411529, 32.753158]
+}, { 
+    "userId" : 2,
+    "type": "T",
+    "datetime": 1585389651,
+    "location": [-96.410790, 32.753602]
+},{ 
+    "userId" : 2,
+    "type": "T",
+    "datetime": 1585389951,
+    "location": [-96.410317, 32.754118]
+}, { 
+    "userId" : 2,
+    "type": "T",
+    "datetime": 1585390251,
+    "location": [-96.410167, 32.754606]
+}, { 
+    "userId" : 2,
+    "type": "T",
+    "datetime": 1585390431,
+    "location": [-96.411827, 32.755186]
+}, { 
+    "userId" : 3,
+    "type": "T",
+    "datetime": 1585389651,
+    "location": [-96.413232, 32.755276]
+}, {
+    "userId" : 3,
+    "type": "T",
+    "datetime": 1585390251,
+    "location": [-96.411827, 32.755186]
+}, { 
+    "userId" : 3,
+    "type": "T",
+    "datetime": 1585390551,
+    "location": [-96.409092, 32.754277]
+},{ 
+    "userId" : 3,
+    "type": "T",
+    "datetime": 1585390851,
+    "location": [-96.405625, 32.753883]
+}, { 
+    "userId" : 3,
+    "type": "T",
+    "datetime": 1585391151,
+    "location": [-96.404359, 32.752098]
+}, { 
+    "userId" : 3,
+    "type": "T",
+    "datetime": 1585391451,
+    "location": [-96.405312, 32.752389]
+}, {
+    "userId" : 4,
+    "type": "T",
+    "datetime": 1585391571,
+    "location": [-96.405312, 32.752389]
+}, { 
+    "userId" : 4,
+    "type": "T",
+    "datetime": 1585392051,
+    "location": [-96.406547, 32.751813]
+}, { 
+    "userId" : 4,
+    "type": "T",
+    "datetime": 1585392351,
+    "location": [-96.407072, 32.752351]
+}, { 
+    "userId" : 4,
+    "type": "T",
+    "datetime": 1585392651,
+    "location": [-96.407602, 32.752987]
+}, { 
+    "userId" : 4,
+    "type": "T",
+    "datetime": 1585392951,
+    "location": [-96.406923, 32.752816]
+}, { 
+    "userId" : 4,
+    "type": "T",
+    "datetime": 1585393251,
+    "location": [-96.406923, 32.752816]
+}, { 
+    "userId" : 4,
+    "type": "T",
+    "datetime": 1585393551,
+    "location": [-96.406910, 32.752802]
+}, { 
+    "userId" : 5,
+    "type": "T",
+    "datetime": 1585392831,
+    "location": [-96.406878, 32.753801]
+}, { 
+    "userId" : 5,
+    "type": "T",
+    "datetime": 1585393371,
+    "location": [-96.406923, 32.752816]
+}, { 
+    "userId" : 5,
+    "type": "T",
+    "datetime": 1585393851,
+    "location": [-96.407734, 32.751983]
+}, { 
+    "userId" : 5,
+    "type": "T",
+    "datetime": 1585394151,
+    "location": [-96.406553, 32.751801]
+}, { 
+    "userId" : 5,
+    "type": "T",
+    "datetime": 1585394331,
+    "location": [-96.405315, 32.752387]
+}] 
